@@ -4,12 +4,12 @@
  * Name: main.cpp
  */
 
-#ifndef TASK_1_H
-#define TASK_1_H
+#ifndef TASK_3_H
+#define TASK_3_H
 
 #include <vector>
 #include <string>
 
-void bubbleSort(std::vector<std::string> &books);
+void rearrangeSoldiers(std::vector<std::string> &soldiers);
 
 #endif
